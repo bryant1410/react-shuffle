@@ -1,14 +1,14 @@
-#react-shuffle
+# react-shuffle
 
 Animated shuffling of child components
 
-###Install
+### Install
 
 ```
 npm install react-shuffle
 ```
 
-###Preview
+### Preview
 
 ![http://i.imgur.com/B1RFfvj.gif](http://i.imgur.com/B1RFfvj.gif)
 
@@ -25,7 +25,7 @@ Simply wrap child components with this component and dynamically change them to 
 | scale | React.PropTypes.bool | Should children scale on enter/leave |
 | intial | React.PropTypes.bool | Should scale/fade occur on first load |
 
-###Example
+### Example
 ```javascript
 'use strict';
 
